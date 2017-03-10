@@ -1,1 +1,1 @@
-# Static-Optimization-with-Inequality-Constraints
+# Static Optimization with Inequality Constraints
